@@ -1,4 +1,4 @@
-офversion: '3.7'
+оversion: '3.7'
 services:
   db-api:
     build: .
